@@ -7,9 +7,9 @@ Guides, Links and Source material for learning
 - https://blog.andrewray.me/reactjs-for-stupid-people/
 - https://egghead.io/courses/getting-started-with-redux
 
-# Flux 
+# Flux vs. Redux
 - https://blog.andrewray.me/flux-for-stupid-people/
-
+- https://medium.com/of-all-things-tech-progress/understanding-mvc-architecture-with-react-6cd38e91fefd
 
 # Node.js
 
