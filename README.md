@@ -1,6 +1,8 @@
 # Dev-Materials
 Guides, Links and Source material for learning
 
+# Node.js
+- http://nodeguide.com/
 
 # React JS & JSX
 - http://buildwithreact.com/tutorial/jsx
