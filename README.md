@@ -7,6 +7,9 @@ Guides, Links and Source material for learning
 - https://blog.andrewray.me/reactjs-for-stupid-people/
 - https://egghead.io/courses/getting-started-with-redux
 
+# Flux 
+- https://blog.andrewray.me/flux-for-stupid-people/
+
 
 # Node.js
 
