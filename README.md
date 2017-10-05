@@ -5,6 +5,7 @@ Guides, Links and Source material for learning
 - http://nodeguide.com/
 
 # React JS & JSX
+- http://andrewhfarmer.com/getting-started-tutorials/
 - http://buildwithreact.com/tutorial/jsx
 - https://blog.yld.io/2015/06/10/getting-started-with-react-and-node-js/#.WdZNvnVSyCg
 - https://blog.andrewray.me/reactjs-for-stupid-people/
