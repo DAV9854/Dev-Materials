@@ -1,5 +1,5 @@
 # Dev-Materials
-Guides, Links and Source material for Devs
+Guides, Links and Source material for learning
 
 # React JS & JSX
 - http://buildwithreact.com/tutorial/jsx
