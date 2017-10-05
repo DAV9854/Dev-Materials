@@ -16,8 +16,3 @@ Guides, Links and Source material for learning
 - https://blog.andrewray.me/webpack-when-to-use-and-why/
 
 
-# Node.js
-
-# C, C++
-
-
