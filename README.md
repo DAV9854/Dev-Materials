@@ -1,6 +1,14 @@
 # Dev-Materials
 Guides, Links and Source material for learning
 
+Currently working with: 
+
+- Node.js 
+- React 
+- Express
+- MongoDB
+
+
 # Node.js
 - http://nodeguide.com/
 
