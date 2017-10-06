@@ -9,6 +9,10 @@ Currently working with:
 - MongoDB
 
 
+
+# JS
+ - http://callbackhell.com/
+
 # Node.js
 - http://nodeguide.com/
 
