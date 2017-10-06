@@ -17,6 +17,7 @@ Currently working with:
  - http://callbackhell.com/
 
 # Node.js
+- https://nodeschool.io/
 - http://nodeguide.com/
 
 # React JS & JSX
